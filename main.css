@@ -1,0 +1,73 @@
+#navbar{
+    background-color: white;
+    background-image: url("starGradient.jpg");
+}
+
+#logo{
+  padding-left: 30px;
+}
+
+#linkedinButton{
+    padding-top: 14px;
+}
+
+#githubButton{
+    padding-top: 16px;
+    padding-right: 30px;
+}
+
+#card-grid{
+    display: grid;
+    grid-template: 300px / 400px 400px;
+    grid-gap: 20px;
+    grid-column-gap: 60px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+#welcome{
+    word-spacing: 2px;
+    font-size:20px;
+}
+
+#resume{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+#yucard{
+    padding-top: 30px;
+    padding-left: 70px;
+    font-size: 24px;
+}
+
+#pcard{
+    padding-top: 30px;
+    padding-left: 70px;
+    font-size: 20px;
+}
+
+#icard{
+    padding-top: 30px;
+    padding-left: 70px;
+    font-size: 20px;
+}
+
+#igrid{
+    display: grid;
+    grid-template: 300px/ 300px 300px 300px;
+    grid-gap: 40px;
+    padding-left: 70px;
+    padding-top: 25px;
+}
+
+.blackborder{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+#contactcard{
+    padding-top: 30px ;
+    padding-left: 70px;
+    font-size: 22px;
+}
